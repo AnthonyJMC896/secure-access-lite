@@ -13,5 +13,65 @@
       "description": "Ruta de casa al trabajo",
       "keyPoints": ["Av. Sol", "Estación Naranjal", "Centro Cívico"]
     }
+  },
+  {
+    "id": "2f4e6d8c-9b0a-1c2d-3e4f-5a6b7c8d9e0f",
+    "name": "Luis Ramírez",
+    "dni": "45612378",
+    "photoPath": "images/luis_ramirez.jpg",
+    "credential": {
+      "username": "lramirez",
+      "hashedPassword": "$2a$10$abcdEfGhIjKlMnOpQrStUvWxYz1234567890abcdefghijklmno"
+    },
+    "displacementPattern": {
+      "patternId": "pat-002",
+      "description": "Visitas frecuentes",
+      "keyPoints": ["Plaza Central", "Universidad San Marcos", "Biblioteca Nacional"]
+    }
+  },
+  {
+    "id": "3c5d7f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1g",
+    "name": "María Torres",
+    "dni": "11223344",
+    "photoPath": "images/maria_torres.jpg",
+    "credential": {
+      "username": "mtorres",
+      "hashedPassword": "$2a$10$zyxwvutsrqponmlkjihgfedcba9876543210abcdefghijklmnop"
+    },
+    "displacementPattern": {
+      "patternId": "pat-003",
+      "description": "Ruta universitaria",
+      "keyPoints": ["Residencial Los Olivos", "Metro Los Olivos", "Campus PUCP"]
+    }
+  },
+  {
+    "id": "4d6e8f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2g",
+    "name": "Jorge Castillo",
+    "dni": "99887766",
+    "photoPath": "images/jorge_castillo.jpg",
+    "credential": {
+      "username": "jcastillo",
+      "hashedPassword": "$2a$10$abcdefghijklmnopqrstuvwx0987654321zyxwvutsrqponmlkj"
+    },
+    "displacementPattern": {
+      "patternId": "pat-004",
+      "description": "Ruta deportiva",
+      "keyPoints": ["Parque Zonal", "Estadio Nacional", "Gimnasio Municipal"]
+    }
+  },
+  {
+    "id": "5e7f9a1b-2c3d-4e5f-6a7b-8c9d0e1f2g3h",
+    "name": "Carolina Vega",
+    "dni": "33445566",
+    "photoPath": "images/carolina_vega.jpg",
+    "credential": {
+      "username": "cvega",
+      "hashedPassword": "$2a$10$qwertyuiopasdfghjklzxcvbnm1234567890qazwsxedcrfvtgbyhn"
+    },
+    "displacementPattern": {
+      "patternId": "pat-005",
+      "description": "Ruta de compras",
+      "keyPoints": ["Centro Comercial Real Plaza", "Mercado Central", "Av. Abancay"]
+    }
   }
 ]
