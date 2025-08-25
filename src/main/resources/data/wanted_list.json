@@ -18,6 +18,18 @@
       "name": "Carlos Mendoza Silva",
       "reason": "Estafa electrónica",
       "dateAdded": "2025-08-15"
+    },
+    {
+      "dni": "44556677",
+      "name": "Lucía Fernández Torres",
+      "reason": "Tráfico de datos personales",
+      "dateAdded": "2025-08-18",
+    },
+    {
+      "dni": "99887766",
+      "name": "Roberto Castillo Vargas",
+      "reason": "Extorsión",
+      "dateAdded": "2025-08-20",
     }
   ]
 }
